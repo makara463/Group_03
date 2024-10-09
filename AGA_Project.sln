@@ -7,9 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AGA_Project", "AGA_Project\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_MVC_AdminLTE", "ASP.NET_MVC_AdminLTE\ASP.NET_MVC_AdminLTE.csproj", "{76BAF3CE-A840-47BC-BD5A-28C3633E3E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud_User", "Crud_User\Crud_User.csproj", "{DB3F0FE8-8E8F-4CB9-8799-E5DC9054B1F0}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET_MVC_Entity_Framework", "E:\ASP\ASP.NET_MVC_Entity_Framework\ASP.NET_MVC_Entity_Framework\ASP.NET_MVC_Entity_Framework.csproj", "{986DDA42-083E-47C3-9F2A-A6A8B2AA19E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{22DBE61D-350F-4177-9117-4BB6CC63FE9A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library", "library\library.csproj", "{72C29ADE-E5B6-484F-A772-26040B3203EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,14 +30,14 @@ Global
 		{76BAF3CE-A840-47BC-BD5A-28C3633E3E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76BAF3CE-A840-47BC-BD5A-28C3633E3E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76BAF3CE-A840-47BC-BD5A-28C3633E3E45}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DB3F0FE8-8E8F-4CB9-8799-E5DC9054B1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DB3F0FE8-8E8F-4CB9-8799-E5DC9054B1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DB3F0FE8-8E8F-4CB9-8799-E5DC9054B1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DB3F0FE8-8E8F-4CB9-8799-E5DC9054B1F0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{986DDA42-083E-47C3-9F2A-A6A8B2AA19E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{986DDA42-083E-47C3-9F2A-A6A8B2AA19E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{986DDA42-083E-47C3-9F2A-A6A8B2AA19E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{986DDA42-083E-47C3-9F2A-A6A8B2AA19E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C29ADE-E5B6-484F-A772-26040B3203EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C29ADE-E5B6-484F-A772-26040B3203EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C29ADE-E5B6-484F-A772-26040B3203EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C29ADE-E5B6-484F-A772-26040B3203EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
