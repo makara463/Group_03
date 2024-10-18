@@ -1,4 +1,5 @@
 using library.Data;
+using library.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
